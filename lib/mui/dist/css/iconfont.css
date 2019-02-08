@@ -1,0 +1,88 @@
+@font-face {font-family: "iconfont";
+  
+  src:  url('../fonts/iconfont.ttf?t=1547019352028') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+ }
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.icon-erweima:before {
+  content: "\e60c";
+}
+
+.icon-shoucang:before {
+  content: "\e60f";
+}
+
+.icon-yanjing:before {
+  content: "\e661";
+}
+
+.icon-dingdan:before {
+  content: "\e648";
+}
+
+.icon-yanjing-bi:before {
+  content: "\e61e";
+}
+
+.icon-hongbao:before {
+  content: "\e66c";
+}
+
+.icon-guanbi:before {
+  content: "\eb6a";
+}
+
+.icon-duigou:before {
+  content: "\ebe6";
+}
+
+.icon-xiayibu:before {
+  content: "\ebef";
+}
+
+.icon-qianbao:before {
+  content: "\e61d";
+}
+
+
+
+.icon-geren:before {
+  content: "\e62d"; 
+font-size: 40px;
+}.icon-3:before {
+  content: "\e602";
+}
+
+.icon-jiqiren:before {
+  content: "\e603";
+}
+
+
+
+.icon-jiqiren1:before {
+  content: "\e623";
+}
+
+
+
+.icon-jiqiren-:before {
+  content: "\e69d";
+}
+
+.icon-zanting:before {
+  content: "\e667";
+}
+
+.icon-bofang:before {
+  content: "\e604";
+}
+

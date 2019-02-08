@@ -1,0 +1,29 @@
+{
+    "goods":[
+        {"id":1,"kucun":30,"now_price":899,"old_price":2999,"title":"飞利浦（PHILIPS） 学生备用功能机","img_url":"../../static/flp.jpg","sell_time":"2017-02-05",
+            "img_url_m":[
+                {"img_url":"../../static/flp1.jpg"},
+                {"img_url":"../../static/flp2.jpg"},
+                {"img_url":"../../static/flp3.jpg"},
+                {"img_url":"../../static/flp4.jpg"}
+            ]
+        },
+        {"id":2,"kucun":122,"now_price":29.9,"old_price":419,"title":"淡化黑眼圈 眼袋 鱼尾纹 脂肪粒","img_url":"../../static/ec.png","sell_time":"2016-06-25",
+            "img_url_m":[
+                {"img_url":"../../static/ec1.jpg"},
+                {"img_url":"../../static/ec2.jpg"},
+                {"img_url":"../../static/ec3.jpg"},
+                {"img_url":"../../static/ec4.jpg"}
+            ]
+        },
+        {"id":3,"kucun":46,"now_price":69,"old_price":159,"title":"法颂浪漫精美女士香水女士持久淡香清新","img_url":"../../static/xs.jpg","sell_time":"2018-02-06",
+            "img_url_m":[
+                {"img_url":"../../static/xs1.jpg"},
+                {"img_url":"../../static/xs2.jpg"},
+                {"img_url":"../../static/xs3.jpg"},
+                {"img_url":"../../static/xs4.jpg"}
+            ]
+        
+        }
+    ]
+}
