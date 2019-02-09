@@ -120,7 +120,7 @@ export default {
                         });
                         setTimeout(() => {
                                 instance.close();
-                                this.changeBadge();
+                                
                         }, 1300);  
                     this.count=0;
                     }
